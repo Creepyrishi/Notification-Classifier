@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: updates about changes or upcoming reviews of loyalty tiers.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your loyalty status will be reviewed next month.  
+2. You are 200 points away from the next tier.  
+3. Loyalty benefits update coming soon. Stay tuned!  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

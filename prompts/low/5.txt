@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: short trivia questions to engage users.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Which country has the most islands in the world?  
+2. Can you name the tallest mountain in Africa?  
+3. Guess the year the internet was invented.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

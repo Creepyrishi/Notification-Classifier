@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: messages from friends or family sharing photos, videos, or stories.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Just sent you the pictures from our trip!  
+2. Check out this funny video I found.  
+3. Look at this amazing sunset I captured yesterday.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

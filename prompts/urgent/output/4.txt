@@ -1,0 +1,50 @@
+1. Urgent: suspicious account activity detected overnight.
+2. Payment for insurance premium failed, retry now.
+3. Credit card transaction of $2000 flagged as fraudulent.
+4. Bank account accessed from unknown location, secure now.
+5. Multiple failed transactions on your debit card.
+6. Security alert: suspicious login from new device.
+7. Transaction of $1500 requires immediate verification.
+8. Failed payment for rent, action required today.
+9. Suspected fraud: $800 transaction on your card.
+10. Account temporarily locked due to unusual activity.
+11. Verify unusual transaction of $300 immediately.
+12. Payment for loan installment failed, late fees apply.
+13. Credit card used in high-risk location, secure account.
+14. Multiple transactions flagged as suspicious activity.
+15. Action required: unusual login from foreign IP.
+16. Bank account debit of $1000 requires verification.
+17. Transaction limit exceeded, contact bank immediately.
+18. Payment to unknown recipient failed, retry or cancel.
+19. Account security compromised, change password now.
+20. Urgent review required for credit card statement.
+21. Debit card blocked due to potential fraud.
+22. Security alert: email password change attempted.
+23. $500 transfer to unknown recipient flagged suspicious.
+24. Payment failure for utility bill, avoid disconnection.
+25. Immediate verification required for large transaction.
+26. Card not present transaction flagged as high risk.
+27. Failed transaction on credit card, try again.
+28. Bank account credit of $2000 under review.
+29. High-value transaction requires confirmation now.
+30. Verify new payee before proceeding with transfer.
+31. Account alert: login attempt from new country.
+32. Suspicious withdrawal of $1000 at ATM.
+33. Online payment to unknown merchant failed.
+34. Multiple failed logins from unknown devices.
+35. Verify transaction details to avoid account lockout.
+36. Urgent security update for mobile banking app.
+37. Potential scam detected, review recent transactions.
+38. Transaction holds due to suspected money laundering.
+39. Bank fraud department needs your attention now.
+40. Payment for upcoming trip failed, contact airline.
+41. High-risk country transactions flagged on your account.
+42. Immediate action required to prevent account takeover.
+43. Transaction declined, insufficient funds in account.
+44. New device linked to your account, verify now.
+45. Review and confirm or cancel pending transactions.
+46. Security team reviewing unusual account behavior.
+47. Transaction flags indicate possible phishing scam.
+48. Failed two-factor authentication attempt detected.
+49. Contact bank to unblock debit card transaction.
+50. Unusual account behavior detected, secure now.

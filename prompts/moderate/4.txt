@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: summary of social media activity over past days.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You gained 5 new followers last week.  
+2. Your post reached 100 views yesterday.  
+3. 3 comments received on your recent photo.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

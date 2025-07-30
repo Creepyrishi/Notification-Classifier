@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: bank fraud, suspicious transactions, and failed payments. 
+Messages must be urgent, professional, and time-critical. 
+Limit to 5–25 words, no titles. 
+Follow the style shown in these examples:
+1. Suspicious transaction of $500 detected on your account.
+2. Payment failed for electricity bill. Service will be cut off soon.
+3. Credit card blocked due to suspected fraudulent activity.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

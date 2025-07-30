@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: random fun facts for entertainment.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Did you know dolphins sleep with one eye open?  
+2. Bananas are berries, but strawberries aren’t.  
+3. A group of flamingos is called a flamboyance.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

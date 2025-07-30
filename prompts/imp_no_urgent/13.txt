@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: product or service recommendations based on user preferences.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Check out our new summer collection, perfect for your style.  
+2. Recommended: noise-cancelling headphones with 20% discount.  
+3. New recipes added to your favorite cooking app.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

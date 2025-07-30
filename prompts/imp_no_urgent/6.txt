@@ -1,0 +1,12 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: monthly account summaries or statements.  
+Follow the style shown in these examples:  
+1. Your July bank statement is now available.  
+2. Savings account interest summary ready for review.  
+3. Credit card statement generated for this billing cycle.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

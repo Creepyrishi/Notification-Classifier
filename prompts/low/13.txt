@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: nostalgic reminders or old content resurfacing.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Look back at your photos from 5 years ago today.  
+2. Your first status update was posted 10 years ago.  
+3. Revisit your favorite playlist from 2018.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

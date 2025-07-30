@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: routine app notifications about usage or non-critical info.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You’ve used 50% of your data plan this month.  
+2. Daily step goal almost reached. Keep it up!  
+3. Your playlist has 5 new song recommendations.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

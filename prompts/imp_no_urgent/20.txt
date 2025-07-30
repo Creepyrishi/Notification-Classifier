@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: scheduled maintenance notifications for apps or services.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Scheduled maintenance planned for Sunday, 1 AM to 3 AM.  
+2. App update may be temporarily unavailable during maintenance.  
+3. Service will resume after routine system checks tonight.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

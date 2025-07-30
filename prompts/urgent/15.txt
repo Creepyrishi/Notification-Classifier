@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: severe disease outbreak alerts, public health warnings.  
+Tone: urgent, informative.  
+5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Flu outbreak detected in your area. Get vaccinated immediately.  
+2. Public health alert: contaminated water reported. Avoid tap water.  
+3. Measles cases rising. Ensure your vaccinations are up to date.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

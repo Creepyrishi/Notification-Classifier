@@ -1,0 +1,50 @@
+1. Payment for loan account 1234 is past due, take action immediately.
+2. Your water bill payment has failed, risk of shutdown pending.
+3. Overdue bill payment detected, service termination in 48 hours.
+4. Electricity bill overdue, settle now to avoid power cutoff.
+5. Failure to pay loan installment will result in penalties.
+6. Unpaid balance may cause internet service disruption tomorrow.
+7. Pay your outstanding balance to avoid phone service blackout.
+8. Loan repayment 3 days overdue, please settle urgently now.
+9. Utility bill unpaid, risking electricity supply cutoff soon.
+10. Immediate payment required for overdue loan to avoid fees.
+11. Missed loan payment will negatively affect credit score soon.
+12. Electricity shut off scheduled due to non payment today.
+13. Bill payment failed, water supply at risk of being cut.
+14. Overdue bill payment may cause cable service interruption soon.
+15. Payment past due, take action to avoid service disconnection.
+16. Risk of gas supply cutoff due to unpaid bill pending.
+17. Pay outstanding loan amount to avoid legal action soon.
+18. Your loan payment is 5 days overdue, immediate payment needed.
+19. Service disconnection warning due to unpaid phone bill balance.
+20. Outstanding loan payment overdue, settling now is crucial.
+21. Failed payment may result in home security system cutoff.
+22. Utility bill payment overdue by 2 weeks, pay now urgently.
+23. Payment urgently required for loan account to avoid extra fees.
+24. Unpaid electricity bill putting service at risk of shutdown.
+25. Your credit card bill is overdue, settle the amount immediately.
+26. Loan default imminent, settlement of overdue amount required.
+27. Warning, non payment of bill will disconnect internet tomorrow.
+28. Payment for overdue loan is required to avoid further charges.
+29. Service cutoff warning due to unpaid rent and utilities.
+30. Urgent action needed to settle outstanding loan balance now.
+31. Final reminder to pay electricity bill before shutdown today.
+32. Overdue loan payment puts credit score at risk of decline.
+33. Electricity supply cutoff due to non payment is imminent today.
+34. Immediate payment of loan installment is now obligatory.
+35. Your loan payment has been overdue for 7 days already.
+36. Non payment of bill risks internet and phone service cutoff.
+37. Outstanding balance must be paid to avoid service disruption.
+38. Final notice for settling overdue loan to avoid penalties.
+39. Your phone and internet services at risk due to unpaid bills.
+40. Utility service provider will shut off supply if not paid now.
+41. Overdue payment for loan will incur additional interest charges.
+42. Unpaid water bill may cause service interruption and fines.
+43. Settlement of overdue loan account required to avoid charges.
+44. Internet and cable services at risk due to failed payment today.
+45. Take immediate action to settle outstanding loan now pending.
+46. Your bank loan has an outstanding overdue payment pending.
+47. Electricity shutdown scheduled due to non payment this week.
+48. Non payment will result in home phone service being cut off.
+49. Urgent settlement required for outstanding utilities and rent.
+50. Overdue loan installment must be paid now to avoid issues.

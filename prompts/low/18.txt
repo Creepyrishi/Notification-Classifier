@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: casual movie or TV show recommendations.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Watch the latest superhero film this weekend.  
+2. New season of your favorite drama is now streaming.  
+3. Comedy classics added to our watchlist collection.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,50 @@
+1. Your password was changed successfully last week.
+2. New device logged into your account yesterday.
+3. Two-factor authentication is enabled on your account.
+4. Account access attempted from an unknown location.
+5. Verify your account information to prevent restrictions.
+6. Your account has been logged into from Chrome.
+7. We detected a new device on your account today.
+8. Password update is recommended for stronger security.
+9. New sign-in location detected, please review activity.
+10. Session expiration occurred due to inactivity recently.
+11. Your security questions have been updated successfully.
+12. A new phone number was added to your account.
+13. Two-factor authentication code sent to your email.
+14. Update your security settings for enhanced protection.
+15. Review recent activity for suspicious transactions now.
+16. New login from a previously unknown browser.
+17. Your account is set to use a stronger password.
+18. Recent sign-in attempts from unfamiliar locations detected.
+19. Verify the authenticity of your account activity.
+20. Update your recovery email for account safety.
+21. Session has timed out, please login again now.
+22. Check your account for any unusual activity recently.
+23. Two-factor authentication methods have been modified.
+24. Login successful from a new device just now.
+25. Monitor your account for potentially fraudulent actions.
+26. A device was removed from your account settings.
+27. Enhanced security features have been enabled now.
+28. Confirm that recent login attempts were legitimate.
+29. Account lockout occurred after incorrect logins today.
+30. New login detected, please acknowledge or report.
+31. Email address update has been applied successfully now.
+32. Verify the new phone number on your account.
+33. Login activity from multiple locations today detected.
+34. Update your account security to prevent access.
+35. Session ended automatically due to suspicious activity.
+36. Your account needs verification due to recent changes.
+37. A new location has been added to your trusted list.
+38. Device or location based restrictions have been applied.
+39. Check and validate recent account transactions now.
+40. Two-factor authentication method has been modified recently.
+41. New location sign-in settings are now in effect.
+42. Login was successful from a new IP just now.
+43. Update your account password to maintain access now.
+44. Location where your account is most often used updated.
+45. Account login settings have been modified successfully.
+46. Multiple login attempts from a single device occurred.
+47. Two-factor authentication has been turned off recently.
+48. Password recovery has been modified for security.
+49. Monitor recent activity on your linked accounts now.
+50. New trusted location has been added to settings successfully

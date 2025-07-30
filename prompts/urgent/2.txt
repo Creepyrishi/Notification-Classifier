@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: medical emergencies, hospital alerts, and health warnings. 
+Make them sound urgent and time-sensitive. 
+Keep each between 5–25 words, no titles. 
+Follow the style shown in these examples:
+1. Patient in Room 302 requires immediate assistance.
+2. Emergency! Accident victims arriving at ER in 3 minutes.
+3. Code Blue in ICU. Medical team report immediately.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

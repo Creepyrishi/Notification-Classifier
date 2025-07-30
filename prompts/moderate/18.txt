@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: achievements or milestones reached in app usage.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You completed 10 workouts this month.  
+2. New badge earned for consistent usage.  
+3. Your streak reached 7 days. Keep going!  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

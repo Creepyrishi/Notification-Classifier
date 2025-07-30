@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: casual reminders about game progress.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You’re 100 points away from unlocking a new level.  
+2. Complete today’s challenge to earn bonus coins.  
+3. Your farm is ready for harvest.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

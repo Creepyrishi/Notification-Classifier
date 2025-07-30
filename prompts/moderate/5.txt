@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: non-urgent account security notifications.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your password was changed successfully last week.  
+2. New device logged into your account yesterday.  
+3. Two-factor authentication is enabled on your account.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

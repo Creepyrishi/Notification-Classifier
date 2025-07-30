@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: updates from friends or family about life events or news.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Just started a new job last week!  
+2. Got a new puppy; can’t wait for you to meet him.  
+3. Planning a trip to visit you next month.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

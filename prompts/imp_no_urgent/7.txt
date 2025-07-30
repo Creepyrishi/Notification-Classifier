@@ -1,0 +1,12 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: wellness tips and regular checkup reminders.  
+Follow the style shown in these examples:  
+1. Stay hydrated! Drink at least 2 liters today.  
+2. Time to schedule your annual health checkup.  
+3. Keep up your 10,000 daily steps goal.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

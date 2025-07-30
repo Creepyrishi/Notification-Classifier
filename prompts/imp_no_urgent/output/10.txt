@@ -1,0 +1,50 @@
+1. Your order has been processed and is awaiting shipment.
+2. Package #87653 is expected to arrive within 7-10 days.
+3. Shipment for your recent purchase will depart tomorrow.
+4. Order #21123 is being packed and will ship soon.
+5. Your parcel is currently in transit, arriving next Tuesday.
+6. Delivery of your package is scheduled for this Friday.
+7. Item #4321 has shipped and tracking info is available.
+8. Processing of your order is complete, shipping soon.
+9. Your recent purchase will be shipped by end of week.
+10. Order #76542 is being prepared for delivery next week.
+11. Shipment notification for order #98213 has been sent.
+12. Your package has been handed over to the courier.
+13. Arrival of your parcel is expected within 5-7 business days.
+14. Delivery update: your order is on its way, arrives Thursday.
+15. The shipping label for your order has been generated.
+16. Your order #65432 is being packaged for shipping today.
+17. Package is en route, expected to arrive within a week.
+18. Order #21987 has shipped, you will receive an update soon.
+19. Your shipment preparation is almost complete, departs tomorrow.
+20. You can expect your parcel to arrive early next week.
+21. Package for your recent order is ready for shipment.
+22. Item #1111 has been shipped, arriving at your doorstep soon.
+23. Shipment for order #45621 will depart in 2 days time.
+24. Tracking details for your parcel are now available online.
+25. The delivery of your order is scheduled to arrive Monday.
+26. Order processing complete, awaiting shipping confirmation.
+27. Parcel for order #9821 will be shipped out tomorrow.
+28. Order #32144 is packed and ready for shipping now.
+29. Arrival of your order is expected within the next fortnight.
+30. Your parcel has been picked up by the shipping carrier.
+31. Shipment notification for your order has been sent successfully.
+32. The package for your recent order is in transit now.
+33. Order #21345 is packed and will ship by tomorrow evening.
+34. Delivery of your package is expected in approximately 10 days.
+35. Shipping preparation for your order is almost complete now.
+36. Your recent purchase will be shipped later this week.
+37. Order #56789 has shipped, expected to arrive next Wednesday.
+38. You can track your parcel delivery with the given reference.
+39. Order #12365 will be handed over to the courier tomorrow.
+40. Shipment update for order #45678, delivery expected Thursday.
+41. Your package is now being packed for shipment today.
+42. Order #90012 has been shipped and tracking info is sent.
+43. Delivery of your order will arrive by the end of next week.
+44. Package arrival for order #21111 is expected Friday.
+45. Preparation of your shipment is complete, awaits pick up.
+46. Shipment details for your recent order have been updated.
+47.Parcel #21343 is being prepared for dispatch today.
+48. Shipping confirmation email has been sent to you.
+49. Order #54321 will be delivered to you early next week.
+50. Shipping of your package is scheduled to depart this Friday.

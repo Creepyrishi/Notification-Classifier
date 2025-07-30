@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: failed loan payments, overdue bills with service cutoff risk.  
+Tone: urgent, warning.  
+5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Your electricity bill payment failed. Pay now to avoid cutoff.  
+2. Loan payment overdue by 3 days. Immediate action required.  
+3. Service will be disconnected due to unpaid balance.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

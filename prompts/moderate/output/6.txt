@@ -1,0 +1,50 @@
+1. Getting close to your daily data transfer limit.
+2. Almost reached your monthly voice minutes allowance.
+3. 90% of your cloud backup space is used.
+4. You're near the limit of your SMS sending quota.
+5. Be aware that you've used 80% of your bandwidth.
+6. Close to reaching your monthly file download limit.
+7. Approaching the maximum number of allowed logins.
+8. Your monthly internet usage is almost at maximum.
+9. You have used 85% of your music streaming hours.
+10. Warning: nearing the limit of your email sending capacity.
+11. 75% of your available storage has been used up.
+12. Almost at the maximum allowed database queries per day.
+13. Exceeding 90% of your daily API call limit.
+14. Be cautious, you're near the limit of your video uploads.
+15. You've reached 80% of your monthly SMS character limit.
+16. Getting near the maximum allowed concurrent connections.
+17. Almost reached the limit of your photo storage space.
+18. 95% of your available bandwidth has been used.
+19. Warning: close to the limit of your file sharing capacity.
+20. You've used 70% of your monthly cloud computing hours.
+21. Nearing the limit of your daily transaction quota.
+22. 85% of your music download quota has been used.
+23. Almost at the limit of your video streaming hours.
+24. Be aware that you're nearing the SMS character limit.
+25. You've used 90% of your available cloud disk space.
+26. Approaching the maximum number of allowed backups.
+27. Close to reaching the limit of your internet speeds.
+28. 80% of your database storage has been used up.
+29. Warning: near the limit of your file upload size.
+30. Almost reached the maximum allowed daily logins.
+31. You have used 75% of your email sending capacity.
+32. Nearing the limit of your cloud function executions.
+33. Be cautious, you're near the limit of your data usage.
+34. 95% of your video storage space has been used.
+35. Almost at the limit of your daily API requests.
+36. You've reached 85% of your SMS sending limit.
+37. Getting close to the maximum allowed cloud instances.
+38. Warning: nearing the limit of your music uploads.
+39. 90% of your daily data transfer has been used.
+40. Almost reached the limit of your cloud storage capacity.
+41. Be aware that you're near the limit of your email storage.
+42. You've used 80% of your available bandwidth today.
+43. Nearing the limit of your daily message sending quota.
+44. 85% of your file sharing quota has been used up.
+45. Almost at the limit of your database query executions.
+46. Warning: close to the limit of your video downloads.
+47. You've reached 75% of your cloud computing capacity.
+48. Be cautious, you're nearing the limit of your internet plan.
+49. 95% of your daily transaction limit has been used.
+50. Almost reached the maximum allowed file uploads today.

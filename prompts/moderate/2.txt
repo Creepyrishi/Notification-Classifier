@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: promotional offers or discounts without immediate expiry.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Get 10% off on your next purchase anytime this month.  
+2. Summer sale ongoing—check out new arrivals.  
+3. Exclusive offer for loyal customers, no rush to redeem.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

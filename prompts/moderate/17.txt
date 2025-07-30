@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: reminders about software license renewals or expirations.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your software license expires in 30 days.  
+2. Renew your license to continue receiving updates.  
+3. License renewal reminder: due next month.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

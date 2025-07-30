@@ -1,0 +1,12 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: shipping and delivery updates for items already in progress.  
+Follow the style shown in these examples:  
+1. Your package has been dispatched and will arrive next week.  
+2. Order #45321 is on its way, expected Friday.  
+3. Your book order is being prepared for shipment.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: warnings about nearing service usage limits.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You’re at 80% of your monthly cloud storage quota.  
+2. Approaching your monthly message sending limit.  
+3. You have used 75% of your streaming hours.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

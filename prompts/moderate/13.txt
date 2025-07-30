@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: reminders to review saved or unread content.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You have 5 unread articles saved for later.  
+2. Don’t forget to check out your saved recipes.  
+3. New video added to your watchlist.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,50 @@
+1. Cardiac arrest in Room 204, need defibrillator ASAP.
+2. Multiple casualties en route to hospital, prepare trauma team.
+3. Severe allergic reaction in patient, administer epinephrine now.
+4. ICU patient's oxygen levels critically low, adjust ventilator.
+5. Emergency surgery scheduled in 10 minutes, prep operating room.
+6. Patient in Room 101 experiencing severe chest pain, ECG required.
+7. Medical helicopter arriving with critical patient in 5 minutes.
+8. Hospital lockdown due to possible contagion outbreak, seal doors.
+9. Patient's vitals crashing, immediate medical attention necessary.
+10. Fire alarm triggered in east wing, evacuate patients now.
+11. Critical lab results for patient in Room 307, review immediately.
+12. Doctor urgently needed in pediatrics for infant emergency.
+13. Emergency cesarean section, prepare delivery room instantly.
+14. Code Red in maternity ward, all medical staff report.
+15. Severe burn victim arriving in 2 minutes, prep burn unit.
+16. Patient's health deteriorating rapidly, expedite treatment plan.
+17. Possible epidemic outbreak, institute quarantine protocols now.
+18. Hospital power outage, switch to backup generators immediately.
+19. Patient in Room 404 requires emergency dialysis, stat.
+20. Medical emergency in the parking lot, send team to assist.
+21. Trauma patient arriving with severe head injury, neurosurgeon needed.
+22. Room 208 patient's condition deteriorating, rush to ICU.
+23. Emergency transfusion required for patient in Room 109.
+24. Doctor needed in Room 212 for possible stroke patient.
+25. Multiple emergencies due to natural disaster, all staff report.
+26. Hospital's water supply contaminated, use bottled water only.
+27. Room 305 patient has flatlined, CPR in progress.
+28. Hospital security breach, lock down all patient areas now.
+29. Critical patient transfer from another hospital, prep receiving team.
+30. Room 103 patient experiencing anaphylaxis, inject epinephrine.
+31. Possible bioterrorism threat, activate emergency response plan.
+32. New outbreak of infectious disease reported, heighten precautions.
+33. Patient's respirator failing, replace immediately with backup.
+34. Doctor urgently needed for emergency C-section, room 406.
+35. Code Brown in Room 209, immediate cleanup required.
+36. Severe weather warning, prepare hospital for emergency situations.
+37. Patient in Room 210 showing signs of sepsis, treat ASAP.
+38. Patient has escaped from psychiatric ward, find and sedate.
+39. Hospital pharmacy robbery, secure all medication areas.
+40. Emergency response team needed for multi-vehicle accident.
+41. Patient in Room 405 is bleeding out, get surgical team.
+42. Emergency evacuation due to chemical spill, seal off area.
+43. Possible medical error in Room 211, investigate immediately.
+44. Critical patient's family arriving, prepare counseling services.
+45. Patient in cardiac arrest, apply defibrillator paddles now.
+46. Patient's condition worsening, expedite consult with specialist.
+47. Emergency room overflow, redirect some patients to nearby hospitals.
+48. All medical staff report to duty due to emergency situations surge.
+49. Patient in Room 402 is losing consciousness, stabilize immediately.
+50. Medical team needed on helicopter pad for incoming trauma patient.

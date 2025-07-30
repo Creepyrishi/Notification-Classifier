@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: sudden network or internet outages affecting services. 
+Make them sound critical and time-sensitive. 
+Keep them short (5–25 words), no titles. 
+Follow the style shown in these examples:
+1. Internet service in your area is currently down.
+2. Network outage detected. Technicians are working to restore service.
+3. Mobile data will be unavailable for the next 3 hours.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

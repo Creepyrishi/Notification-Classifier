@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: invites from friends or family to casual events or hangouts.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Movie night this Saturday at my place. Wanna come?  
+2. BBQ at the park next weekend, join us!  
+3. Let’s meet for coffee sometime next week.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

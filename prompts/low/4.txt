@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: motivational or inspirational quotes.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. “Do something today your future self will thank you for.”  
+2. “Happiness is not by chance, but by choice.”  
+3. “Dream big, work hard, stay focused.”  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

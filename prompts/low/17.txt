@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: recipes inspired by the current season.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Try a refreshing watermelon salad this summer.  
+2. Bake spiced apple pie for a cozy autumn day.  
+3. Warm up with hot chocolate this winter.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: curfew orders, law enforcement warnings, road closures.  
+Tone: direct, urgent.  
+Length: 5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Curfew in effect from 8 PM to 5 AM tonight. Stay indoors.  
+2. Road closed due to police investigation. Use alternate routes.  
+3. Law enforcement warning: avoid downtown area until further notice.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

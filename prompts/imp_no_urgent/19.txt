@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: announcements for educational seminars, workshops, or lectures.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Join the upcoming AI workshop on September 15.  
+2. Webinar on creative writing scheduled for next Friday.  
+3. New coding tutorials added to your course dashboard.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: billing invoices generated or ready for review (not overdue).  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your July invoice is now available to download.  
+2. Invoice #78945 generated for your recent purchase.  
+3. Monthly billing statement ready for your review.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

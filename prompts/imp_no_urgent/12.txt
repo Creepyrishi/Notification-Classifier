@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: reminders for upcoming payments before due date.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your credit card payment is due in 5 days.  
+2. Electricity bill payment due next Monday.  
+3. Upcoming rent payment reminder for August 1.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

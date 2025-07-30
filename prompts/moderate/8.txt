@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: non-critical weather updates and forecasts.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Light showers expected over the weekend.  
+2. Mild temperatures expected throughout the week.  
+3. Winds picking up tomorrow afternoon.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

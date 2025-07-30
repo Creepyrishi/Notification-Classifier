@@ -1,0 +1,12 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: course updates, exam schedules, or learning resources.  
+Follow the style shown in these examples:  
+1. New AI course material uploaded to your dashboard.  
+2. Exam timetable for next month is now available.  
+3. Webinar on climate change scheduled for September 12.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

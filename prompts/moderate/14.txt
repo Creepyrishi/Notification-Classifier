@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: account balance summaries or updates.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your account balance is $250.  
+2. Recent transactions have been posted.  
+3. Savings account balance updated today.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

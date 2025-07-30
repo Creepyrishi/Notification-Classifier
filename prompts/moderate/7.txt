@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: info about current subscription plans without urgent action.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your current plan includes 100 GB storage.  
+2. Upgrade your plan anytime for more features.  
+3. Subscription benefits include free support and updates.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

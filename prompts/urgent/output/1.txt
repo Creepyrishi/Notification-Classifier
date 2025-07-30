@@ -1,0 +1,50 @@
+1. Urgent: verify your account activity within the next hour.
+2. OTP code 124578 expires in 1 minute, please proceed.
+3. Unrecognized device tried to access your account, take action.
+4. Your account security has been compromised, update now.
+5. Login from unknown location detected, verify immediately.
+6. OTP 658923 is required to complete the transaction now.
+7. Account lockout in 5 minutes if not verified.
+8. Security alert: password change recommended immediately.
+9. We detected unusual account activity, secure now.
+10. New device login: confirm or lock your account.
+11. Enter OTP 463721 to restore your account access.
+12. Immediate action required: update your security settings.
+13. Transaction pending: enter otp 982134 to proceed.
+14. OTP 113457 required for login verification now.
+15. Urgent: check your account for suspicious transactions.
+16. Security breach: change password and update now.
+17. Your OTP code is 278493, use within 3 minutes.
+18. Update your account security to avoid lockout.
+19. Confirm your identity to unlock your account now.
+20. Enter code 658749 to complete the security check.
+21. Unsecure login attempt: take action immediately.
+22. OTP code 935612 expires in 30 seconds.
+23. Login attempt from new device, verify now.
+24. Update your password to maintain account security.
+25. 2-factor authentication required for login, proceed.
+26. Verify your account info to prevent lockout.
+27. OTP 427893 is needed to complete transfer.
+28. New login location detected, update your settings.
+29. Immediate password reset required for security.
+30. Unlock your account using OTP 119874.
+31. Verify transaction of $100 to secure account.
+32. Security warning: update your account settings now.
+33. Confirm new device to avoid account lock.
+34. OTP 246810 required to access account Now.
+35. Transaction alert: review and verify now.
+36. Account security at risk, take action immediately.
+37. Code 563214 sent for account verification, use now.
+38. Password change recommended to secure account.
+39. Secure your account by verifying your info.
+40. 2-factor authentication code is 982617.
+41. Urgent: account lockout in 2 minutes if unverified.
+42. Transaction on hold: enter OTP 754321.
+43. Your password has been reset, update now.
+44. OTP 394825 is required for transaction approval.
+45. Check account activity and confirm transactions.
+46. Your security questions have been updated, verify.
+47. Enter OTP 126954 to complete account setup.
+48. Unusual login detected from public network.
+49. Security update: new password required now.
+50. OTP code 647382 required for account access

@@ -1,0 +1,13 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: urgent work-related chat or email notifications — deadline warnings, immediate action requests, client emergencies.  
+Messages should be professional yet urgent, 5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Project report due in 30 minutes. Please send ASAP.  
+2. Client issue escalated. Need your input now.  
+3. Server outage affecting our app. Emergency meeting in 5 minutes.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

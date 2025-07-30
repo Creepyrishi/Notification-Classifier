@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: active security threats, police alerts, lockdown instructions. 
+Tone must be urgent and authoritative. 
+5–25 words, no titles. 
+Follow the style shown in these examples:
+1. Armed suspect in the area. Stay indoors.
+2. City under lockdown. Avoid public places.
+3. Police searching for dangerous fugitive in your area.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

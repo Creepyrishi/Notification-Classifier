@@ -1,0 +1,13 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: updates about social media activity, likes, comments, or followers.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Your photo got 50 new likes today.  
+2. New comment on your recent post.  
+3. You have 10 new followers this week.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

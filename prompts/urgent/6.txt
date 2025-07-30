@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: flight cancellations, last-minute delays, and gate changes. 
+Messages should convey urgency and time pressure. 
+5–25 words, no titles. 
+Follow the style shown in these examples:
+1. Flight 6E452 delayed by 2 hours due to weather.
+2. Gate change for Flight AI202. Proceed to Gate B14 immediately.
+3. Train service to City Center suspended until further notice.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

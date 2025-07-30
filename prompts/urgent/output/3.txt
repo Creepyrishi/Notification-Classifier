@@ -1,0 +1,50 @@
+1. Tornado warning issued for your area. Take shelter now.
+2. Wildfire spreading rapidly. Evacuate the premises immediately.
+3. Category 4 hurricane landfall expected within hours. Leave now.
+4. Flash flooding imminent. Move to higher ground.
+5. Tsunami warning issued for coastal areas. Evacuate immediately.
+6. Severe weather alert. Seek shelter from tornado.
+7. Fire storm approaching. Leave the area instantly.
+8. Blizzard warning. Stock up and stay indoors.
+9. Flood warning issued for your location. Evacuate now.
+10. Earthquake aftermath. Beware of aftershocks and falling debris.
+11. Volcanic eruption imminent. Evacuate the vicinity immediately.
+12. Hurricane force winds expected. Secure loose objects.
+13. Landslide warning issued. Avoid steep slopes and evacuating.
+14. Winter storm warning. Avoid all travel tonight.
+15. Cyclone warning issued. Move to a safe shelter.
+16. Emergency alert. Tornado touching down nearby.
+17. Evacuation order issued due to flooding. Leave now.
+18. Typhoon warning. Secure your home and evacuate.
+19. Extreme cold warning. Keep warm and indoors.
+20. Mudslide warning issued. Avoid low-lying areas.
+21. Severe thunderstorm warning. Take cover immediately.
+22. Fire warning issued. Leave the area and avoid smoke.
+23. Category 3 hurricane approaching. Board up and evacuate.
+24. Weather warning. Hurricane force winds expected tonight.
+25. Emergency evacuation alert. Wildfire spreading.
+26. Flash flood warning issued. Move to higher ground now.
+27. Avalanche warning issued. Avoid backcountry travel.
+28. Extreme heat warning. Stay hydrated and indoors.
+29. Storm surge warning. Move away from coastline.
+30. Tornado alert. Seek shelter in a basement.
+31. Weather emergency declared. Stay tuned for updates.
+32. Brush fire warning. Evacuate and avoid flames.
+33. FLOOD WARNING. Seek higher ground instantly.
+34. Storm warning issued. Stay indoors and away.
+35. Winter weather alert. Travel only if necessary.
+36. Volcanic ash fall warning. Stay indoors and avoid travel.
+37. Flood warning issued. Be prepared to evacuate.
+38. Blizzard conditions expected. Stock up and stay inside.
+39. Tsunami evacuation route. Follow the designated path.
+40. Category 2 hurricane approaching. Prepare for landfall.
+41. Earthquake warning. Drop, cover, and hold on.
+42. Emergency alert system. Wildfire warning issued.
+43. Tornado outbreak warning. Seek shelter immediately.
+44. Flood evacuation route. Follow the instructions.
+45. Extreme weather warning issued. Stay safe indoors.
+46. Mudslide danger. Avoid travel and stay aware.
+47. Firebreak warning. Leave the area and follow routes.
+48. Weather alert. Severe thunderstorms expected tonight.
+49. Evacuation warning issued. Fire approaching the area.
+50. Natural disaster alert. Follow evacuation instructions.

@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: daily health or wellness tips.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Take breaks and stretch every hour while working.  
+2. Remember to drink water regularly throughout the day.  
+3. Try to get at least 7 hours of sleep tonight.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

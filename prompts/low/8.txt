@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: non-essential lifestyle tips.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Freeze grapes for a healthy summer snack.  
+2. Use baking soda to freshen your fridge.  
+3. Add lemon to water for extra vitamin C.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

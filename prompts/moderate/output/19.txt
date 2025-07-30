@@ -1,0 +1,50 @@
+1. Backup your files to prevent accidental deletion now
+2. Automatic sync failed, please try again manually
+3. It's been 5 days since your last data backup
+4. Remember to sync your calendar for upcoming events
+5. Don't lose your progress, backup your data today
+6. Your device storage is low, sync to cloud
+7. Last week's files haven't been backed up yet
+8. You have unsynced changes, update your cloud storage
+9. Schedule a weekly backup for peace of mind
+10. Cloud storage is almost full, free up space
+11. New contacts added, sync to update all devices
+12. Data backup is recommended every 7 days
+13. Manual sync required for new phone settings
+14. Backup your music library before it's too late
+15. Update your backup plan for added security
+16. Sync issues detected, reset and try again
+17. Automatically backup your camera roll monthly
+18. You need to confirm your backup settings now
+19. All devices should be synced for uniformity
+20. Sync your emails across all devices regularly
+21. Backup notifications will be sent on Fridays
+22. Automatic backup failed due to low storage
+23. Don't forget your monthly data backup today
+24. Update and sync your software regularly now
+25. Sync all devices to access files anywhere
+26. Check backup settings to avoid losing important files
+27. Data can be recovered from last backup only
+28. Device data should be backed up every week
+29. Backup completed successfully last night at 2am
+30. Set reminders for data backups every Sunday
+31. Ensure all data is synced across devices now
+32. Manual backup required for recent documents
+33. Backup schedule has been updated successfully
+34. Backup of videos is recommended weekly
+35. Low cloud storage, consider upgrading your plan
+36. Backup and sync your music playlists weekly
+37. Last backup contained 500 new files and photos
+38. Update software to improve backup and sync
+39. It's been 14 days since the last cloud sync
+40. New backup option available for large files
+41. Cloud storage limits will be reached soon
+42. Data will be deleted after 30 days unless backed up
+43. Automatic backup of apps has been enabled
+44. Regular backup is crucial for new devices
+45. Backup your settings before factory reset
+46. Sync and merge contacts from various sources
+47. Update your password and restart backup now
+48. Backup process took 30 minutes to complete
+49. You need to resolve sync conflicts now
+50. Free accounts have limited cloud backup space

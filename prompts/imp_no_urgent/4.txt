@@ -1,0 +1,12 @@
+Generate 50 realistic important-but-not-urgent mobile notification bodies.  
+Topic: software or app updates available for installation.  
+Follow the style shown in these examples:  
+1. New security update available. Install at your convenience.  
+2. Version 3.2 of PhotoPro is ready to download.  
+3. Your phone has a pending system update.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

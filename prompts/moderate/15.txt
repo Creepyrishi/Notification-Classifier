@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: summaries of new messages or chats waiting to be read.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. You have 3 new messages from John.  
+2. 5 unread chats in your group conversations.  
+3. New voice message received from Sarah.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

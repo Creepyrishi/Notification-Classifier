@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: tips to improve app or device performance.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Clearing cache can speed up your app performance.  
+2. Update app settings to reduce battery consumption.  
+3. Restart your device weekly for smoother operation.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

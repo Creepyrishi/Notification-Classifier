@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: daily or weekly horoscope snippets.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Today’s a great day to start a new hobby.  
+2. Expect pleasant surprises in the next week.  
+3. Focus on self-care this weekend.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

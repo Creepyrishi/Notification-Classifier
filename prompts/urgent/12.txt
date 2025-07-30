@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: server crashes, website downtime, critical IT failures.  
+Audience: tech or business users.  
+5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Website is down due to server failure. Engineers are fixing it.  
+2. Database crash detected. Immediate attention required.  
+3. Critical system error causing service disruption. Working on a fix.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

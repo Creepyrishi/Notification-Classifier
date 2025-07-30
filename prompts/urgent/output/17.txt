@@ -1,0 +1,50 @@
+1. Suspicious login attempt from unknown device blocked immediately.
+2. Multiple failed login attempts detected, secure your account now.
+3. Unauthorized access detected, change your password immediately.
+4. New device signed in, verify if it was you.
+5. Account login failed multiple times, check your security.
+6. Strange activity on your account, review recent transactions.
+7. Login attempt from unknown location detected and blocked.
+8. Security alert, someone tried to access your account.
+9. Your account was accessed from a new device, verify.
+10. Multiple login attempts failed, update your security questions.
+11. Unauthorized login detected, protect your account now.
+12. Secure your account, suspicious activity was detected.
+13. New login from unfamiliar location, was it you.
+14. Alert, someone is trying to access your account.
+15. Suspicious account activity, check and secure now.
+16. Detected multiple login attempts, secure your information.
+17. Unknown device tried to access, change your password.
+18. Review recent activity, suspicious behavior detected.
+19. Immediate action required, unauthorized access detected.
+20. Suspicious login from unfamiliar device blocked now.
+21. Account security at risk, update your password.
+22. Unrecognized device tried to sign in, secure now.
+23. Multiple security threats detected, protect your account.
+24. New device login detected, verify your security.
+25. Alert, your account was accessed unexpectedly, check.
+26. Login attempts from suspicious IP addresses blocked.
+27. Unauthorized access to your account was detected.
+28. Immediate security review required, suspicious activity.
+29. Multiple failed attempts to access your account.
+30. Strange login activity from new location detected.
+31. Someone tried to log in from unknown device.
+32. Account security compromised, change password now.
+33. Unrecognized login attempt from new device blocked.
+34. Detected unauthorized access, secure your information.
+35. Login attempts from unfamiliar locations detected.
+36. Your account was accessed from an unknown browser.
+37. Security alert, malicious activity on your account.
+38. Someone is trying to guess your password, secure.
+39. Suspicious behavior detected on your account, review.
+40. New and unrecognized device tried to sign in.
+41. Login blocked due to suspicious activity detected.
+42. Urgent action required, account security at risk.
+43. Multiple security warnings, update your account now.
+44. Suspicious login attempts from different locations.
+45. Your account was accessed from an unknown device.
+46. Detecting multiple failed login attempts, secure now.
+47. Immediate password change required, security risk.
+48. Unknown login attempts from hidden IP addresses.
+49. Someone is accessing your account from new device.
+50. Suspicious activity detected, lock your account now.

@@ -1,0 +1,50 @@
+1. Fire alarm sounds, evacuate the building now
+2. Emergency evacuation in progress, exit immediately
+3. Smoke detected on 3rd floor, leave area
+4. Fire reported in parking garage, evacuate
+5. Alarm blaring, evacuate building immediately
+6. Evacuate due to possible fire hazard
+7. Evacuation drill in progress, participate now
+8. Exit building through nearest stairwell
+9. Fire detected on 2nd floor, evacuate
+10. Alarm sounds, evacuate the premises
+11. Smoke fills 1st floor, evacuate now
+12. Emergency evacuation, do not use elevators
+13. Fire in electrical room, evacuate immediately
+14. Evacuate, possible fire in the kitchen
+15. Drill requires your immediate evacuation
+16. Flames seen on roof, exit building
+17. Smoke spreading, evacuate through stairs
+18. System failure, evacuate for safety
+19. Fire alarm activated, exit the building
+20. Hazmat situation, evacuate the area
+21. Building on fire, evacuate quickly
+22. Warning, do not re-enter the building
+23. Mandatory evacuation, proceed to exit
+24. Emergency services en route, evacuate
+25. Evacuation route, follow the signs
+26. Evacuate due to fire in basement
+27. Fire detected in server room, evacuate
+28. Do not use elevators during evacuation
+29. Possible gas leak, evacuate immediately
+30. Smoke fills the hallway, evacuate
+31. Fire alarm triggered, exit now
+32. Emergency evacuation in progress downstairs
+33. Evacuate through the nearest exit
+34. Fire reported in the laboratory
+35. Evacuation drill, participate immediately
+36. Building evacuation required, proceed
+37. Alarm sounds, follow evacuation procedure
+38. Flames visible, evacuate the area
+39. Toxic fumes detected, evacuate now
+40. Emergency evacuation, move to exit
+41. Exit the building, do not re-enter
+42. Fire in the attic, evacuate quickly
+43. Mandatory building evacuation, comply
+44. System alert, evacuate the premises
+45. Fire detector alarm, evacuate the floor
+46. Do not delay, evacuate immediately
+47. Alarm activated, evacuate the building
+48. Follow evacuation signs to exit
+49. Possible fire in the stairwell
+50. Emergency alert, evacuate the area

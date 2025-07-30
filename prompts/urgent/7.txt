@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies. 
+Topic: missing child alerts and amber alerts. 
+Tone must be urgent, clear, and informative. 
+Keep them short (5–25 words), no titles. 
+Follow the style shown in these examples:
+1. Amber Alert: 6-year-old boy missing near Central Park.
+2. Missing child alert: Last seen wearing blue jacket.
+3. Urgent! Search ongoing for missing teenager in downtown area.
+Output exactly in this format:
+1. noti1
+2. noti2
+3. noti3
+4. noti4
+...

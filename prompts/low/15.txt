@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: polls or casual voting invitations.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Vote for your favorite ice cream flavor.  
+2. Choose the next theme for our book club.  
+3. Help decide the playlist for Friday’s party.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

@@ -1,0 +1,14 @@
+Generate 50 realistic urgent mobile notification bodies.  
+Topic: breaking news that requires immediate attention (e.g., political crisis, major accident).  
+Tone: urgent, concise.  
+Length: 5–25 words, no titles.  
+Follow the style shown in these examples:  
+1. Major earthquake shakes downtown. Stay safe and indoors.  
+2. Explosion reported near city hall. Avoid the area immediately.  
+3. Urgent: Severe traffic accident blocking highway 45. Seek alternate routes.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...  

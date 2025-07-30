@@ -1,0 +1,13 @@
+Generate 50 realistic low priority mobile notification bodies.  
+Topic: food or drink ideas for leisure.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Try making a mango smoothie for breakfast.  
+2. 3 coffee recipes to kickstart your morning.  
+3. New pizza place opened near you.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...

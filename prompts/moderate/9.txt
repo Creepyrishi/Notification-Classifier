@@ -1,0 +1,13 @@
+Generate 50 realistic moderate priority mobile notification bodies.  
+Topic: reminders of scheduled maintenance or downtime in future.  
+Keep messages 5–25 words, no titles.  
+Examples:  
+1. Scheduled maintenance planned for next Sunday evening.  
+2. App updates may be unavailable during tomorrow’s downtime.  
+3. Service outage expected Saturday 2 AM – 4 AM.  
+Output exactly in this format:  
+1. noti1  
+2. noti2  
+3. noti3  
+4. noti4  
+...
