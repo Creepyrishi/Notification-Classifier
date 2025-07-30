@@ -7,12 +7,15 @@ contents = []
 columns = ["content", "class"]
 
 async def process(folder):
+    to_return = []
     for file in os.listdir(f'./prompts/{folder}/output/'):
         f =  open(file=f'./prompts/{folder}/output/{file}')
         data = f.read().splitlines()
         pattern = r'^\d+\.\s*'
         text = [re.sub(pattern, '', text) for text in data]
-        return text
+        for line in text:
+            to_return.append(line)
+    return to_return
 
 async def main():
     prompt_dir = os.listdir('./prompts')
